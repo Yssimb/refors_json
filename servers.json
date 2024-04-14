@@ -1,0 +1,10 @@
+[
+    {
+      "ip": "85.193.87.87",
+      "port": 1125,
+      "x2": false,
+      "name": "REFORS RP #1",
+      "online": 2,
+      "maxonline": 1000
+    }
+ ]
